@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WwO0htKHaPJZthM2+ahSQ4yteQ8RgpxoofEop+GZ4hVAKCm7UXW6vn2EoXTvRMqbNFWVzvnC4kimSd2VgnjpIg==",
+  "dgSpecHash": "UPfIUq0ybAjaott8/0zBbf2y4roJXrsYdywekb0zFncatrlg6MD6win8TMp7uBhR0t7lftn++sOJGaKcUA+Bcg==",
   "success": true,
-  "projectFilePath": "F:\\csharp\\ELKOOD\\Domain\\Domain.csproj",
+  "projectFilePath": "F:\\Gith_hub\\ELKOOD\\ELKOOD\\Domain\\Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

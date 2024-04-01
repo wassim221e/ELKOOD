@@ -33,7 +33,7 @@ namespace Application.Features.MainBranch.Queries.GetAllMainBranch
                 throw new Exception(Errors);
             }
             
-            if(request.CompanyName is null ||Enum.GetNames(typeof(StateOfCompanyQuery)).Contains(request.CompanyName.ToLower()))
+            if(request.CompanyName is null ||Enum.GetNames(typeof(StateOfCompany)).Contains(request.CompanyName.ToLower()))
             {
                 var companies = _companyRepository.GetAllAsync(true).Result.Where(o => o.State == (request.CompanyName is not null ? request.CompanyName.ToLower() : o.State)).ToList();
                 var mainBranches = new List<GetAllBranchViewModel>();

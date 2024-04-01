@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "eopqJFbXy0DMcee9/pZxGBZAqUMgDvaIEyhAeqreXHAqQ28+gSfDb3VtdGhzp0sPt6UfF92AdvbEIUK2oVV2gQ==",
+  "dgSpecHash": "a2QCUOo3RI6cZlECAOXMqjVLXC2W+SjIFfDlh+dXYb4EaT5r0T7UGjHgyj9o5qqzqdYoKebbNEHrHXsau+eclA==",
   "success": true,
-  "projectFilePath": "F:\\csharp\\ELKOOD\\Infrastructure\\Infrastructure.csproj",
+  "projectFilePath": "F:\\Gith_hub\\ELKOOD\\ELKOOD\\Infrastructure\\Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\wassim\\.nuget\\packages\\fluentvalidation\\11.9.0\\fluentvalidation.11.9.0.nupkg.sha512",
     "C:\\Users\\wassim\\.nuget\\packages\\mediatr\\12.2.0\\mediatr.12.2.0.nupkg.sha512",

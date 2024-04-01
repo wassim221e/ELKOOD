@@ -181,11 +181,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\csharp\\ELKOOD\\Application\\Application.csproj",
+      "projectUniqueName": "F:\\Gith_hub\\ELKOOD\\ELKOOD\\Application\\Application.csproj",
       "projectName": "Application",
-      "projectPath": "F:\\csharp\\ELKOOD\\Application\\Application.csproj",
+      "projectPath": "F:\\Gith_hub\\ELKOOD\\ELKOOD\\Application\\Application.csproj",
       "packagesPath": "C:\\Users\\wassim\\.nuget\\packages\\",
-      "outputPath": "F:\\csharp\\ELKOOD\\Application\\obj\\",
+      "outputPath": "F:\\Gith_hub\\ELKOOD\\ELKOOD\\Application\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -205,8 +205,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "F:\\csharp\\ELKOOD\\Domain\\Domain.csproj": {
-              "projectPath": "F:\\csharp\\ELKOOD\\Domain\\Domain.csproj"
+            "F:\\Gith_hub\\ELKOOD\\ELKOOD\\Domain\\Domain.csproj": {
+              "projectPath": "F:\\Gith_hub\\ELKOOD\\ELKOOD\\Domain\\Domain.csproj"
             }
           }
         }

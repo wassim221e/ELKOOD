@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\csharp\\ELKOOD\\ApplicationApi\\ApplicationApi.csproj": {}
+    "F:\\Gith_hub\\ELKOOD\\ELKOOD\\ApplicationApi\\ApplicationApi.csproj": {}
   },
   "projects": {
-    "F:\\csharp\\ELKOOD\\ApplicationApi\\ApplicationApi.csproj": {
+    "F:\\Gith_hub\\ELKOOD\\ELKOOD\\ApplicationApi\\ApplicationApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\csharp\\ELKOOD\\ApplicationApi\\ApplicationApi.csproj",
+        "projectUniqueName": "F:\\Gith_hub\\ELKOOD\\ELKOOD\\ApplicationApi\\ApplicationApi.csproj",
         "projectName": "ApplicationApi",
-        "projectPath": "F:\\csharp\\ELKOOD\\ApplicationApi\\ApplicationApi.csproj",
+        "projectPath": "F:\\Gith_hub\\ELKOOD\\ELKOOD\\ApplicationApi\\ApplicationApi.csproj",
         "packagesPath": "C:\\Users\\wassim\\.nuget\\packages\\",
-        "outputPath": "F:\\csharp\\ELKOOD\\ApplicationApi\\obj\\",
+        "outputPath": "F:\\Gith_hub\\ELKOOD\\ELKOOD\\ApplicationApi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -31,11 +31,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "F:\\csharp\\ELKOOD\\Application\\Application.csproj": {
-                "projectPath": "F:\\csharp\\ELKOOD\\Application\\Application.csproj"
+              "F:\\Gith_hub\\ELKOOD\\ELKOOD\\Application\\Application.csproj": {
+                "projectPath": "F:\\Gith_hub\\ELKOOD\\ELKOOD\\Application\\Application.csproj"
               },
-              "F:\\csharp\\ELKOOD\\Infrastructure\\Infrastructure.csproj": {
-                "projectPath": "F:\\csharp\\ELKOOD\\Infrastructure\\Infrastructure.csproj"
+              "F:\\Gith_hub\\ELKOOD\\ELKOOD\\Infrastructure\\Infrastructure.csproj": {
+                "projectPath": "F:\\Gith_hub\\ELKOOD\\ELKOOD\\Infrastructure\\Infrastructure.csproj"
               }
             }
           }
@@ -107,14 +107,14 @@
         }
       }
     },
-    "F:\\csharp\\ELKOOD\\Application\\Application.csproj": {
+    "F:\\Gith_hub\\ELKOOD\\ELKOOD\\Application\\Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\csharp\\ELKOOD\\Application\\Application.csproj",
+        "projectUniqueName": "F:\\Gith_hub\\ELKOOD\\ELKOOD\\Application\\Application.csproj",
         "projectName": "Application",
-        "projectPath": "F:\\csharp\\ELKOOD\\Application\\Application.csproj",
+        "projectPath": "F:\\Gith_hub\\ELKOOD\\ELKOOD\\Application\\Application.csproj",
         "packagesPath": "C:\\Users\\wassim\\.nuget\\packages\\",
-        "outputPath": "F:\\csharp\\ELKOOD\\Application\\obj\\",
+        "outputPath": "F:\\Gith_hub\\ELKOOD\\ELKOOD\\Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -134,8 +134,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "F:\\csharp\\ELKOOD\\Domain\\Domain.csproj": {
-                "projectPath": "F:\\csharp\\ELKOOD\\Domain\\Domain.csproj"
+              "F:\\Gith_hub\\ELKOOD\\ELKOOD\\Domain\\Domain.csproj": {
+                "projectPath": "F:\\Gith_hub\\ELKOOD\\ELKOOD\\Domain\\Domain.csproj"
               }
             }
           }
@@ -184,14 +184,14 @@
         }
       }
     },
-    "F:\\csharp\\ELKOOD\\Domain\\Domain.csproj": {
+    "F:\\Gith_hub\\ELKOOD\\ELKOOD\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\csharp\\ELKOOD\\Domain\\Domain.csproj",
+        "projectUniqueName": "F:\\Gith_hub\\ELKOOD\\ELKOOD\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "F:\\csharp\\ELKOOD\\Domain\\Domain.csproj",
+        "projectPath": "F:\\Gith_hub\\ELKOOD\\ELKOOD\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\wassim\\.nuget\\packages\\",
-        "outputPath": "F:\\csharp\\ELKOOD\\Domain\\obj\\",
+        "outputPath": "F:\\Gith_hub\\ELKOOD\\ELKOOD\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -247,14 +247,14 @@
         }
       }
     },
-    "F:\\csharp\\ELKOOD\\Infrastructure\\Infrastructure.csproj": {
+    "F:\\Gith_hub\\ELKOOD\\ELKOOD\\Infrastructure\\Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\csharp\\ELKOOD\\Infrastructure\\Infrastructure.csproj",
+        "projectUniqueName": "F:\\Gith_hub\\ELKOOD\\ELKOOD\\Infrastructure\\Infrastructure.csproj",
         "projectName": "Infrastructure",
-        "projectPath": "F:\\csharp\\ELKOOD\\Infrastructure\\Infrastructure.csproj",
+        "projectPath": "F:\\Gith_hub\\ELKOOD\\ELKOOD\\Infrastructure\\Infrastructure.csproj",
         "packagesPath": "C:\\Users\\wassim\\.nuget\\packages\\",
-        "outputPath": "F:\\csharp\\ELKOOD\\Infrastructure\\obj\\",
+        "outputPath": "F:\\Gith_hub\\ELKOOD\\ELKOOD\\Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -274,11 +274,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "F:\\csharp\\ELKOOD\\Application\\Application.csproj": {
-                "projectPath": "F:\\csharp\\ELKOOD\\Application\\Application.csproj"
+              "F:\\Gith_hub\\ELKOOD\\ELKOOD\\Application\\Application.csproj": {
+                "projectPath": "F:\\Gith_hub\\ELKOOD\\ELKOOD\\Application\\Application.csproj"
               },
-              "F:\\csharp\\ELKOOD\\Domain\\Domain.csproj": {
-                "projectPath": "F:\\csharp\\ELKOOD\\Domain\\Domain.csproj"
+              "F:\\Gith_hub\\ELKOOD\\ELKOOD\\Domain\\Domain.csproj": {
+                "projectPath": "F:\\Gith_hub\\ELKOOD\\ELKOOD\\Domain\\Domain.csproj"
               }
             }
           }

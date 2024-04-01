@@ -1,17 +1,45 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "F:\\csharp\\ELKOOD\\",
+  "WorkspaceRootPath": "F:\\Gith_hub\\ELKOOD\\ELKOOD\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FB49CE0D-FB3E-4344-A237-B916B918F0A8}|Application\\Application.csproj|f:\\csharp\\elkood\\application\\features\\mainbranch\\queries\\getalldistribution\\getalldistributionqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FB49CE0D-FB3E-4344-A237-B916B918F0A8}|Application\\Application.csproj|f:\\gith_hub\\elkood\\elkood\\application\\features\\company\\commands\\updatecompany\\updatecompanycommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB49CE0D-FB3E-4344-A237-B916B918F0A8}|Application\\Application.csproj|solutionrelative:application\\features\\company\\commands\\updatecompany\\updatecompanycommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB49CE0D-FB3E-4344-A237-B916B918F0A8}|Application\\Application.csproj|f:\\gith_hub\\elkood\\elkood\\application\\features\\company\\commands\\updatecompany\\updatecompanycommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB49CE0D-FB3E-4344-A237-B916B918F0A8}|Application\\Application.csproj|solutionrelative:application\\features\\company\\commands\\updatecompany\\updatecompanycommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB49CE0D-FB3E-4344-A237-B916B918F0A8}|Application\\Application.csproj|f:\\gith_hub\\elkood\\elkood\\application\\features\\company\\commands\\createcompany\\createcompanycommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB49CE0D-FB3E-4344-A237-B916B918F0A8}|Application\\Application.csproj|solutionrelative:application\\features\\company\\commands\\createcompany\\createcompanycommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB49CE0D-FB3E-4344-A237-B916B918F0A8}|Application\\Application.csproj|f:\\gith_hub\\elkood\\elkood\\application\\features\\company\\commands\\createcompany\\createcompanycommandvaldator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB49CE0D-FB3E-4344-A237-B916B918F0A8}|Application\\Application.csproj|solutionrelative:application\\features\\company\\commands\\createcompany\\createcompanycommandvaldator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB5028CF-C195-44F8-BE56-B9DB0D12B4FF}|Domain\\Domain.csproj|f:\\gith_hub\\elkood\\elkood\\domain\\enums\\branchtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB5028CF-C195-44F8-BE56-B9DB0D12B4FF}|Domain\\Domain.csproj|solutionrelative:domain\\enums\\branchtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB5028CF-C195-44F8-BE56-B9DB0D12B4FF}|Domain\\Domain.csproj|f:\\gith_hub\\elkood\\elkood\\domain\\enums\\stateofcompany.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB5028CF-C195-44F8-BE56-B9DB0D12B4FF}|Domain\\Domain.csproj|solutionrelative:domain\\enums\\stateofcompany.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB49CE0D-FB3E-4344-A237-B916B918F0A8}|Application\\Application.csproj|f:\\gith_hub\\elkood\\elkood\\application\\features\\mainbranch\\queries\\getallmainbranch\\getallbranchqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB49CE0D-FB3E-4344-A237-B916B918F0A8}|Application\\Application.csproj|solutionrelative:application\\features\\mainbranch\\queries\\getallmainbranch\\getallbranchqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB49CE0D-FB3E-4344-A237-B916B918F0A8}|Application\\Application.csproj|f:\\gith_hub\\elkood\\elkood\\application\\features\\mainbranch\\queries\\getalldistribution\\getalldistributionqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FB49CE0D-FB3E-4344-A237-B916B918F0A8}|Application\\Application.csproj|solutionrelative:application\\features\\mainbranch\\queries\\getalldistribution\\getalldistributionqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FB49CE0D-FB3E-4344-A237-B916B918F0A8}|Application\\Application.csproj|f:\\csharp\\elkood\\application\\features\\mainbranch\\commands\\updatemainbranch\\updatemainbranchcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FB49CE0D-FB3E-4344-A237-B916B918F0A8}|Application\\Application.csproj|f:\\gith_hub\\elkood\\elkood\\application\\features\\mainbranch\\commands\\updatemainbranch\\updatemainbranchcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FB49CE0D-FB3E-4344-A237-B916B918F0A8}|Application\\Application.csproj|solutionrelative:application\\features\\mainbranch\\commands\\updatemainbranch\\updatemainbranchcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FB49CE0D-FB3E-4344-A237-B916B918F0A8}|Application\\Application.csproj|f:\\csharp\\elkood\\application\\features\\mainbranch\\commands\\adddistribution\\adddistributionquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FB49CE0D-FB3E-4344-A237-B916B918F0A8}|Application\\Application.csproj|f:\\gith_hub\\elkood\\elkood\\application\\features\\mainbranch\\commands\\adddistribution\\adddistributionquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FB49CE0D-FB3E-4344-A237-B916B918F0A8}|Application\\Application.csproj|solutionrelative:application\\features\\mainbranch\\commands\\adddistribution\\adddistributionquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -22,8 +50,47 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UpdateCompanyCommandValidator.cs",
+              "DocumentMoniker": "F:\\Gith_hub\\ELKOOD\\ELKOOD\\Application\\Features\\Company\\Commands\\UpdateCompany\\UpdateCompanyCommandValidator.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Company\\Commands\\UpdateCompany\\UpdateCompanyCommandValidator.cs",
+              "ToolTip": "F:\\Gith_hub\\ELKOOD\\ELKOOD\\Application\\Features\\Company\\Commands\\UpdateCompany\\UpdateCompanyCommandValidator.cs",
+              "RelativeToolTip": "Application\\Features\\Company\\Commands\\UpdateCompany\\UpdateCompanyCommandValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T18:13:59.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UpdateCompanyCommandHandler.cs",
+              "DocumentMoniker": "F:\\Gith_hub\\ELKOOD\\ELKOOD\\Application\\Features\\Company\\Commands\\UpdateCompany\\UpdateCompanyCommandHandler.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Company\\Commands\\UpdateCompany\\UpdateCompanyCommandHandler.cs",
+              "ToolTip": "F:\\Gith_hub\\ELKOOD\\ELKOOD\\Application\\Features\\Company\\Commands\\UpdateCompany\\UpdateCompanyCommandHandler.cs",
+              "RelativeToolTip": "Application\\Features\\Company\\Commands\\UpdateCompany\\UpdateCompanyCommandHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T18:13:57.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CreateCompanyCommandHandler.cs",
+              "DocumentMoniker": "F:\\Gith_hub\\ELKOOD\\ELKOOD\\Application\\Features\\Company\\Commands\\CreateCompany\\CreateCompanyCommandHandler.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Company\\Commands\\CreateCompany\\CreateCompanyCommandHandler.cs",
+              "ToolTip": "F:\\Gith_hub\\ELKOOD\\ELKOOD\\Application\\Features\\Company\\Commands\\CreateCompany\\CreateCompanyCommandHandler.cs",
+              "RelativeToolTip": "Application\\Features\\Company\\Commands\\CreateCompany\\CreateCompanyCommandHandler.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAcwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T18:13:39.724Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
@@ -42,42 +109,92 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
+              "Title": "CreateCompanyCommandValdator.cs",
+              "DocumentMoniker": "F:\\Gith_hub\\ELKOOD\\ELKOOD\\Application\\Features\\Company\\Commands\\CreateCompany\\CreateCompanyCommandValdator.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Company\\Commands\\CreateCompany\\CreateCompanyCommandValdator.cs",
+              "ToolTip": "F:\\Gith_hub\\ELKOOD\\ELKOOD\\Application\\Features\\Company\\Commands\\CreateCompany\\CreateCompanyCommandValdator.cs",
+              "RelativeToolTip": "Application\\Features\\Company\\Commands\\CreateCompany\\CreateCompanyCommandValdator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T18:13:40.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StateOfCompany.cs",
+              "DocumentMoniker": "F:\\Gith_hub\\ELKOOD\\ELKOOD\\Domain\\Enums\\StateOfCompany.cs",
+              "RelativeDocumentMoniker": "Domain\\Enums\\StateOfCompany.cs",
+              "ToolTip": "F:\\Gith_hub\\ELKOOD\\ELKOOD\\Domain\\Enums\\StateOfCompany.cs",
+              "RelativeToolTip": "Domain\\Enums\\StateOfCompany.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T18:12:02.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BranchType.cs",
+              "DocumentMoniker": "F:\\Gith_hub\\ELKOOD\\ELKOOD\\Domain\\Enums\\BranchType.cs",
+              "RelativeDocumentMoniker": "Domain\\Enums\\BranchType.cs",
+              "ToolTip": "F:\\Gith_hub\\ELKOOD\\ELKOOD\\Domain\\Enums\\BranchType.cs",
+              "RelativeToolTip": "Domain\\Enums\\BranchType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T18:12:01.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GetAllBranchQueryHandler.cs",
+              "DocumentMoniker": "F:\\Gith_hub\\ELKOOD\\ELKOOD\\Application\\Features\\MainBranch\\Queries\\GetAllMainBranch\\GetAllBranchQueryHandler.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\MainBranch\\Queries\\GetAllMainBranch\\GetAllBranchQueryHandler.cs",
+              "ToolTip": "F:\\Gith_hub\\ELKOOD\\ELKOOD\\Application\\Features\\MainBranch\\Queries\\GetAllMainBranch\\GetAllBranchQueryHandler.cs",
+              "RelativeToolTip": "Application\\Features\\MainBranch\\Queries\\GetAllMainBranch\\GetAllBranchQueryHandler.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAswCMAAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T18:11:52.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "GetAllDistributionQueryHandler.cs",
-              "DocumentMoniker": "F:\\csharp\\ELKOOD\\Application\\Features\\MainBranch\\Queries\\GetAllDistribution\\GetAllDistributionQueryHandler.cs",
+              "DocumentMoniker": "F:\\Gith_hub\\ELKOOD\\ELKOOD\\Application\\Features\\MainBranch\\Queries\\GetAllDistribution\\GetAllDistributionQueryHandler.cs",
               "RelativeDocumentMoniker": "Application\\Features\\MainBranch\\Queries\\GetAllDistribution\\GetAllDistributionQueryHandler.cs",
-              "ToolTip": "F:\\csharp\\ELKOOD\\Application\\Features\\MainBranch\\Queries\\GetAllDistribution\\GetAllDistributionQueryHandler.cs",
+              "ToolTip": "F:\\Gith_hub\\ELKOOD\\ELKOOD\\Application\\Features\\MainBranch\\Queries\\GetAllDistribution\\GetAllDistributionQueryHandler.cs",
               "RelativeToolTip": "Application\\Features\\MainBranch\\Queries\\GetAllDistribution\\GetAllDistributionQueryHandler.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAYwBcAAAA3AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-01T16:39:04.903Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 8,
               "Title": "UpdateMainBranchCommandHandler.cs",
-              "DocumentMoniker": "F:\\csharp\\ELKOOD\\Application\\Features\\MainBranch\\Commands\\UpdateMainBranch\\UpdateMainBranchCommandHandler.cs",
+              "DocumentMoniker": "F:\\Gith_hub\\ELKOOD\\ELKOOD\\Application\\Features\\MainBranch\\Commands\\UpdateMainBranch\\UpdateMainBranchCommandHandler.cs",
               "RelativeDocumentMoniker": "Application\\Features\\MainBranch\\Commands\\UpdateMainBranch\\UpdateMainBranchCommandHandler.cs",
-              "ToolTip": "F:\\csharp\\ELKOOD\\Application\\Features\\MainBranch\\Commands\\UpdateMainBranch\\UpdateMainBranchCommandHandler.cs",
+              "ToolTip": "F:\\Gith_hub\\ELKOOD\\ELKOOD\\Application\\Features\\MainBranch\\Commands\\UpdateMainBranch\\UpdateMainBranchCommandHandler.cs",
               "RelativeToolTip": "Application\\Features\\MainBranch\\Commands\\UpdateMainBranch\\UpdateMainBranchCommandHandler.cs",
               "ViewState": "AQIAADcAAAAAAAAAAADwv0QAAABMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-01T16:36:52.754Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-01T16:36:52.754Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 9,
               "Title": "AddDistributionQuery.cs",
-              "DocumentMoniker": "F:\\csharp\\ELKOOD\\Application\\Features\\MainBranch\\Commands\\AddDistribution\\AddDistributionQuery.cs",
+              "DocumentMoniker": "F:\\Gith_hub\\ELKOOD\\ELKOOD\\Application\\Features\\MainBranch\\Commands\\AddDistribution\\AddDistributionQuery.cs",
               "RelativeDocumentMoniker": "Application\\Features\\MainBranch\\Commands\\AddDistribution\\AddDistributionQuery.cs",
-              "ToolTip": "F:\\csharp\\ELKOOD\\Application\\Features\\MainBranch\\Commands\\AddDistribution\\AddDistributionQuery.cs",
+              "ToolTip": "F:\\Gith_hub\\ELKOOD\\ELKOOD\\Application\\Features\\MainBranch\\Commands\\AddDistribution\\AddDistributionQuery.cs",
               "RelativeToolTip": "Application\\Features\\MainBranch\\Commands\\AddDistribution\\AddDistributionQuery.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-01T16:36:19.132Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-01T16:36:19.132Z"
             }
           ]
         }

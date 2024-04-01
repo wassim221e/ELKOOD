@@ -4715,11 +4715,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\csharp\\ELKOOD\\ApplicationApi\\ApplicationApi.csproj",
+      "projectUniqueName": "F:\\Gith_hub\\ELKOOD\\ELKOOD\\ApplicationApi\\ApplicationApi.csproj",
       "projectName": "ApplicationApi",
-      "projectPath": "F:\\csharp\\ELKOOD\\ApplicationApi\\ApplicationApi.csproj",
+      "projectPath": "F:\\Gith_hub\\ELKOOD\\ELKOOD\\ApplicationApi\\ApplicationApi.csproj",
       "packagesPath": "C:\\Users\\wassim\\.nuget\\packages\\",
-      "outputPath": "F:\\csharp\\ELKOOD\\ApplicationApi\\obj\\",
+      "outputPath": "F:\\Gith_hub\\ELKOOD\\ELKOOD\\ApplicationApi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -4739,11 +4739,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "F:\\csharp\\ELKOOD\\Application\\Application.csproj": {
-              "projectPath": "F:\\csharp\\ELKOOD\\Application\\Application.csproj"
+            "F:\\Gith_hub\\ELKOOD\\ELKOOD\\Application\\Application.csproj": {
+              "projectPath": "F:\\Gith_hub\\ELKOOD\\ELKOOD\\Application\\Application.csproj"
             },
-            "F:\\csharp\\ELKOOD\\Infrastructure\\Infrastructure.csproj": {
-              "projectPath": "F:\\csharp\\ELKOOD\\Infrastructure\\Infrastructure.csproj"
+            "F:\\Gith_hub\\ELKOOD\\ELKOOD\\Infrastructure\\Infrastructure.csproj": {
+              "projectPath": "F:\\Gith_hub\\ELKOOD\\ELKOOD\\Infrastructure\\Infrastructure.csproj"
             }
           }
         }
