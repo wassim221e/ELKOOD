@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "lpsQsxTVL/idM08GiOKfRdiz+a1vT3X1lmEPFc/YcFH+Wy04L8EeBVQYz/6w5MlmcHAmHiqAfweT+oc78zmhQQ==",
+  "success": true,
+  "projectFilePath": "F:\\csharp\\ELKOOD\\Application\\Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\wassim\\.nuget\\packages\\fluentvalidation\\11.9.0\\fluentvalidation.11.9.0.nupkg.sha512",
+    "C:\\Users\\wassim\\.nuget\\packages\\mediatr\\12.2.0\\mediatr.12.2.0.nupkg.sha512",
+    "C:\\Users\\wassim\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\wassim\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

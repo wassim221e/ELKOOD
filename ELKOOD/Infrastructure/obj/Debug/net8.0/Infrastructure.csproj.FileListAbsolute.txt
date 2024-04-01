@@ -1,0 +1,17 @@
+F:\csharp\ELKOOD\Infrastructure\bin\Debug\net8.0\Infrastructure.deps.json
+F:\csharp\ELKOOD\Infrastructure\bin\Debug\net8.0\Infrastructure.dll
+F:\csharp\ELKOOD\Infrastructure\bin\Debug\net8.0\Infrastructure.pdb
+F:\csharp\ELKOOD\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.AssemblyReference.cache
+F:\csharp\ELKOOD\Infrastructure\obj\Debug\net8.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+F:\csharp\ELKOOD\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfoInputs.cache
+F:\csharp\ELKOOD\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfo.cs
+F:\csharp\ELKOOD\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.CoreCompileInputs.cache
+F:\csharp\ELKOOD\Infrastructure\obj\Debug\net8.0\Infrastructure.dll
+F:\csharp\ELKOOD\Infrastructure\obj\Debug\net8.0\refint\Infrastructure.dll
+F:\csharp\ELKOOD\Infrastructure\obj\Debug\net8.0\Infrastructure.pdb
+F:\csharp\ELKOOD\Infrastructure\obj\Debug\net8.0\ref\Infrastructure.dll
+F:\csharp\ELKOOD\Infrastructure\bin\Debug\net8.0\Domain.dll
+F:\csharp\ELKOOD\Infrastructure\bin\Debug\net8.0\Domain.pdb
+F:\csharp\ELKOOD\Infrastructure\obj\Debug\net8.0\Infrastr.15EFFBFE.Up2Date
+F:\csharp\ELKOOD\Infrastructure\bin\Debug\net8.0\Application.dll
+F:\csharp\ELKOOD\Infrastructure\bin\Debug\net8.0\Application.pdb

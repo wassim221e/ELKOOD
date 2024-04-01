@@ -1,0 +1,387 @@
+[
+  {
+    "ContainingType": "ApplicationApi.Controllers.BranchController",
+    "Method": "CreateBranch",
+    "RelativePath": "api/Branch/MainBranch",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "Application.Features.MainBranch.Commands.CreateMainBranch.CreateMainBranchCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ApplicationApi.Controllers.BranchController",
+    "Method": "UpdateBranch",
+    "RelativePath": "api/Branch/MainBranch",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Id",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Name",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Location",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "BranchType",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "mainBranchName",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ApplicationApi.Controllers.BranchController",
+    "Method": "DeleteBranch",
+    "RelativePath": "api/Branch/MainBranch",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Id",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ApplicationApi.Controllers.BranchController",
+    "Method": "GetAllBranch",
+    "RelativePath": "api/Branch/MainBranch/All",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "CompanyName",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ApplicationApi.Controllers.BranchController",
+    "Method": "GetAmountOfDateRange",
+    "RelativePath": "api/Branch/MainBranch/AmountRange",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "MainBranchId",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Start",
+        "Type": "System.DateTime",
+        "IsRequired": false
+      },
+      {
+        "Name": "End",
+        "Type": "System.DateTime",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ApplicationApi.Controllers.BranchController",
+    "Method": "AddBasicProduction",
+    "RelativePath": "api/Branch/MainBranch/BasicProduction",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "Application.Features.MainBranch.Commands.AddBasicProduction.AddBasicProductionCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ApplicationApi.Controllers.BranchController",
+    "Method": "GetMainBranchDetails",
+    "RelativePath": "api/Branch/MainBranch/Details",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Id",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ApplicationApi.Controllers.BranchController",
+    "Method": "AddDistribution",
+    "RelativePath": "api/Branch/MainBranch/Distribution",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "Application.Features.MainBranch.Commands.AddDistribution.AddDistributionQuery",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ApplicationApi.Controllers.BranchController",
+    "Method": "GetAllDistribution",
+    "RelativePath": "api/Branch/MainBranch/Distribution/all",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "MainBranchId",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ApplicationApi.Controllers.BranchController",
+    "Method": "CreateSecondaryBranch",
+    "RelativePath": "api/Branch/SecondaryBranch",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "Application.Features.SecondaryBranch.Commands.CreateSecondaryBranch.CreateSecondaryBranchCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ApplicationApi.Controllers.BranchController",
+    "Method": "UpdateSecondaryBranch",
+    "RelativePath": "api/Branch/SecondaryBranch",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Id",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Name",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Location",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "BranchType",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ApplicationApi.Controllers.BranchController",
+    "Method": "DeleteSecondaryBranch",
+    "RelativePath": "api/Branch/SecondaryBranch",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Id",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ApplicationApi.Controllers.BranchController",
+    "Method": "GetallSecondaryBranch",
+    "RelativePath": "api/Branch/SecondaryBranch/All",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "MainBranchId",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ApplicationApi.Controllers.BranchController",
+    "Method": "GetSecondaryBranchDetails",
+    "RelativePath": "api/Branch/SecondaryBranch/Details",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Id",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ApplicationApi.Controllers.CompanyController",
+    "Method": "CreateCompany",
+    "RelativePath": "api/Company",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Company",
+        "Type": "Application.Features.Company.Commands.CreateCompany.CreateCompanyCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ApplicationApi.Controllers.CompanyController",
+    "Method": "UpdateCompany",
+    "RelativePath": "api/Company",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Company",
+        "Type": "Application.Features.Company.Commands.UpdateCompany.UpdateCompanyCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ApplicationApi.Controllers.CompanyController",
+    "Method": "GetCompanyDetails",
+    "RelativePath": "api/Company",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Id",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ApplicationApi.Controllers.CompanyController",
+    "Method": "DeleteCompany",
+    "RelativePath": "api/Company",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Company",
+        "Type": "Application.Features.Company.Commands.DeleteCompany.DeleteCompanyCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ApplicationApi.Controllers.CompanyController",
+    "Method": "AddProduction",
+    "RelativePath": "api/Company/AddProduction",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "Application.Features.Company.Commands.AddProduction.AddProductionCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ApplicationApi.Controllers.CompanyController",
+    "Method": "GetAllCompany",
+    "RelativePath": "api/Company/All",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "State",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ApplicationApi.Controllers.WeatherForecastController",
+    "Method": "Get",
+    "RelativePath": "WeatherForecast",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[ApplicationApi.WeatherForecast, ApplicationApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]

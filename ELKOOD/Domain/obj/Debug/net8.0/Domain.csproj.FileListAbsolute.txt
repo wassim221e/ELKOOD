@@ -1,0 +1,11 @@
+F:\csharp\ELKOOD\Domain\bin\Debug\net8.0\Domain.deps.json
+F:\csharp\ELKOOD\Domain\bin\Debug\net8.0\Domain.dll
+F:\csharp\ELKOOD\Domain\bin\Debug\net8.0\Domain.pdb
+F:\csharp\ELKOOD\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+F:\csharp\ELKOOD\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+F:\csharp\ELKOOD\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+F:\csharp\ELKOOD\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+F:\csharp\ELKOOD\Domain\obj\Debug\net8.0\Domain.dll
+F:\csharp\ELKOOD\Domain\obj\Debug\net8.0\refint\Domain.dll
+F:\csharp\ELKOOD\Domain\obj\Debug\net8.0\Domain.pdb
+F:\csharp\ELKOOD\Domain\obj\Debug\net8.0\ref\Domain.dll
